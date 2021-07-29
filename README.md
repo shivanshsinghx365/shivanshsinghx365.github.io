@@ -1,3 +1,3 @@
 # shivanshsinghx365.github.io
 
-My personal Website, built using HTML5, CSS & SASS.
+My personal Website, built using HTML5, Javascript, CSS & SCSS.
