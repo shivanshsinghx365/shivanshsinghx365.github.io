@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: shivansh.ga
-Token: 7b9392546630a05dc9d01ec49a1948766ffd116c21c7df0c23bb8762681988da
